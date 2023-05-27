@@ -10,6 +10,6 @@ Abaixo, temos a foto que serviu como referência para a reprodução do projeto 
 
 ![referencia_bd](https://github.com/jpdaher/uvv_bd1_cc1ma/blob/main/pset1/lojas-uvv.png?raw=true)
 
-* *.pdf*: é um PDF que contém uma foto do projeto recriado no SQL Power Architect (o arquivo *.architect*)
+* *.pdf*: é um PDF que contém uma foto do projeto recriado no SQL Power Architect (o arquivo *.architect*). Note que a foto que consta no PDF ***NÃO*** é a foto acima, mas sim a foto do ***projeto recriado***.
 
 * *.sql*: um script em linguagem SQL (com alguns comandos na linguagem administrativa do postgres) que implementa o projeto que consta no arquivo *.architect*. Esse script deve ser executado em um aplicativo cliente específico, o *psql*, por meio de um superusuário. Caso você execute o script sem se conectar como um superusuário, alguns comandos falharão. Consulte a documentação do *PostgreSQL* clicando [aqui](https://www.postgresql.org/docs/15/index.html) e confira a seção sobre o *psql* clicando [aqui](https://www.postgresql.org/docs/current/app-psql.html).
