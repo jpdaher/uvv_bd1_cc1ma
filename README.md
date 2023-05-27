@@ -4,9 +4,9 @@ Um *Problem Set* (PSET) é um conjunto de problemas e tarefas de alta dificuldad
 
 O professor Abrantes, da disciplina *Design e Desenvolvimento de Banco de Dados* nos passou esse PSET com a finalidade de aprendermos mais sobre:
 
-* *Version Control Systems* (Sistemas de Controle de Versões), como o Git
-* Github, *Markdown* e *Github Flavored Markdown*
-* Projetos lógicos e implementação de bancos de dados no PostgreSQL
+* *Version Control Systems* (Sistemas de Controle de Versões), como o Git;
+* Github, *Markdown* e *Github Flavored Markdown*;
+* Projetos lógicos e implementação de bancos de dados no PostgreSQL.
 
 ---
 
