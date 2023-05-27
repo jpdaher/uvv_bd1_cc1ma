@@ -6,9 +6,9 @@ Aqui encontram-se todos os arquivos a serem entregados. Todos os arquivos têm o
 
 * *.architect*: esse arquivo contém o projeto recriado do banco de dados proposto. Como podemos perceber, é uma extensão de arquivo diferente do usual, e portanto necessita de um programa específico para ser aberto. Nesse caso, recomenda-se o uso do SQL Power Architect, um software de código aberto para projetos de bancos de dados.
 
-Abaixo, temos a foto que serviu como referência para a reprodução do projeto:
+Abaixo, temos a foto que serviu como referência para a reprodução do projeto (arquivo *lojas-uvv.png* que também consta nessa pasta:
 
-![referencia_bd](C:\Users\jpber\Downloads\lojas-uvv.png)
+![referencia_bd](jpdaher/uvv_bd1_cc1ma/pset1/lojas-uvv.png)
 
 * *.pdf*: é um PDF que contém uma foto do projeto recriado no SQL Power Architect (o arquivo *.architect*)
 
