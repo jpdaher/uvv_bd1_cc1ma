@@ -1,7 +1,5 @@
 # PSET
 
----
-
 Um *Problem Set* (PSET) é um conjunto de problemas e tarefas de alta dificuldade que exigem que o aluno estude bastante a matéria.
 
 O professor Abrantes, da disciplina *Design e Desenvolvimento de Banco de Dados* nos passou esse PSET com a finalidade de aprendermos mais sobre:
