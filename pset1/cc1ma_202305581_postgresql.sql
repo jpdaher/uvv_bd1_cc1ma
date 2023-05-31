@@ -27,6 +27,9 @@ LC_COLLATE 'pt_BR.UTF-8'
 LC_CTYPE 'pt_BR.UTF-8'
 ALLOW_CONNECTIONS TRUE;
 
+--comentario do banco de dados uvv
+COMMENT ON DATABASE uvv IS 'dados relacionados a uvv';
+
 --conecta ao banco de dados que acabou de ser criado
 \c 'dbname=uvv user=joaodaher password=senha';
 
