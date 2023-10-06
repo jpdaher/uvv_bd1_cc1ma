@@ -1,6 +1,6 @@
 # Descrição dos arquivos nessa pasta
 
-Aqui encontram-se todos os arquivos a serem entregados. Todos os arquivos têm o mesmo nome, porém são tipos de arquivo diferentes, e, por isso, contam com extensões diferentes. Devido a esse fator, irei listar diferenciando-os apenas pela extensão, para não causar confusão. Abaixo temos a listagem deles com uma breve descrição.
+Aqui encontram-se todos os arquivos a serem entregues. Todos os arquivos têm o mesmo nome, porém são tipos de arquivo diferentes, e, por isso, contam com extensões diferentes. Devido a esse fator, irei listar diferenciando-os apenas pela extensão, para não causar confusão. Abaixo temos a listagem deles com uma breve descrição.
 
 ---
 
